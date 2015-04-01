@@ -2,14 +2,48 @@
     border: 1px solid red !important;
 } */
 
-* {
+body {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #777;
 }
 
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.super-title {
+    font-size: 3.5em;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+.thick {
+    font-weight: 400;
+}
+
+.faded {
+    color: #BBB;
+}
+
+.url-wrapper {
+     word-wrap: break-word;
+}
+
+
+/**
 .grid {
     margin: 0 auto;
     max-width: 960px;
@@ -136,3 +170,5 @@ aside p {
     margin: auto;
     word-wrap: break-word;
 }
+
+*/
