@@ -108,9 +108,13 @@ header h3 {
 }
 
 h2 {
-    color: #DDD;
+    color: #BBB;
     font-weight: 300;
     font-size: 2.2em;
+}
+
+aside{
+    max-width: 300px;
 }
 
 aside h3{
@@ -120,8 +124,15 @@ aside h3{
     margin: 10px;
 }
 
+aside h4 {
+    color: #777;
+    font-weight: 300;
+    margin-top: auto;
+}
+
 aside p {
-    color: #DDD;
+    color: #BBB;
     font-weight: 100;
     margin: auto;
+    word-wrap: break-word;
 }
