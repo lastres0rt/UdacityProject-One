@@ -7,4 +7,4 @@ See it in action: http://lastres0rt.github.io/UdacityProject-One/
 
 As a bonus, click on the featured works below for more information on each.
 
-![Screenshot of Site](http://imgur.com/SkPGg5L)
+![Screenshot of Site](http://i.imgur.com/SkPGg5L.jpg)
