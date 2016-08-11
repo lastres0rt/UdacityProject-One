@@ -1,4 +1,5 @@
-# Udacity, Project One
+# One-Page Portfolio
+##  Udacity Project One
 A portfolio site coded up with HTML and CSS for the Udacity Front-End Developer Nanodegree.
 
 The site is intended to demonstrate my skills with code slicing (taking an image and translating it into a website). It is also intended to show my understanding of CSS frameworks.
