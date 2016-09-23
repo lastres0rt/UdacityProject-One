@@ -1,7 +1,7 @@
-# One-Page Portfolio
-##  Udacity Project One
+# Udacity Project One (One-Page Portfolio)
 
 ![Part of the Udacity Front-End Web Development Nanodegree](https://img.shields.io/badge/Udacity-FEND-02b3e4.svg)
+
 A portfolio site coded up with HTML and CSS for the Udacity Front-End Developer Nanodegree.
 
 The site is intended to demonstrate my skills with code slicing (taking an image and translating it into a website). It is also intended to show my understanding of CSS frameworks.
