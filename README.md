@@ -2,9 +2,9 @@
 
 ![Part of the Udacity Front-End Web Development Nanodegree](https://img.shields.io/badge/Udacity-Front--End%20Web%20Developer%20Nanodegree-02b3e4.svg)
 
-A portfolio site coded up with HTML and CSS for the Udacity Front-End Developer Nanodegree.
+A portfolio site coded up with HTML and CSS. 
 
-The site is intended to demonstrate my skills with code slicing (taking an image and translating it into a website). It is also intended to show my understanding of CSS frameworks.
+The site shows off my skills with code slicing (taking an image and translating it into a website). It is also intended to show my understanding of CSS frameworks.
 
 ![Screenshot of Site](http://i.imgur.com/SkPGg5L.jpg)
 
