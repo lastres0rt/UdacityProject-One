@@ -10,7 +10,7 @@ This single-page portfolio also uses elements of Bootstrap and jQuery.
 
 ![Screenshot of Site](http://i.imgur.com/SkPGg5L.jpg)
 
-##How to Use:
+## How to Use:
 
 1. Click here to see it in action: http://lastres0rt.github.io/UdacityProject-One/ 
 2. Click on the featured projects for more information on each.
