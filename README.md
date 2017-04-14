@@ -4,7 +4,9 @@
 
 A portfolio site coded up with HTML and CSS. 📚
 
-The site shows off my skills with code slicing (taking an image and translating it into a website). 🔪 It is also intended to show my understanding of CSS frameworks, by using one to help reconstruct this page. 
+The site shows off my skills with code slicing (taking an image and translating it into a website). 🔪 
+
+It is also intended to show my understanding of CSS frameworks, by using one to help reconstruct this page. 
 
 This single-page portfolio also uses elements of Bootstrap and jQuery. ⚙️
 
