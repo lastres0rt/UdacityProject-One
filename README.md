@@ -16,3 +16,8 @@ This single-page portfolio also uses elements of Bootstrap and jQuery. ⚙️
 
 1. Click here to see it in action: ➡️  http://lastres0rt.github.io/UdacityProject-One/ 
 2. Click on the featured projects for more information on each.
+
+## Recent Updates
+
+### April 21, 2017
+(No major changes planned at this point.)
