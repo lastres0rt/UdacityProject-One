@@ -20,4 +20,5 @@ This single-page portfolio also uses elements of Bootstrap and jQuery. ⚙️
 ## Recent Updates
 
 ### April 21, 2017
+#### Stable Release
 (No major changes planned at this point.)
