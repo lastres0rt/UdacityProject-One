@@ -8,7 +8,7 @@ The site shows off my skills with code slicing -- taking an image and translatin
 
 It is also intended to show my understanding of CSS frameworks. I used one to help reconstruct this page (after I did it the hard way the first time). 😅 ➡ 😓
 
-This single-page portfolio also uses elements of Bootstrap and jQuery. ⚙️
+This single-page portfolio also uses elements of Bootstrap and jQuery. ⚙️ 👢
 
 ![Screenshot of Site](http://i.imgur.com/SkPGg5L.jpg)
 
